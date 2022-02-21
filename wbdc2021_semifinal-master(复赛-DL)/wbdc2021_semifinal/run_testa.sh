@@ -1,0 +1,1 @@
+bash inference.sh /home/tione/notebook/wbdc2021-semi/data/wedata/wechat_algo_data2/test_a.csv
